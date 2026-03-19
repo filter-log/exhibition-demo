@@ -1,13 +1,13 @@
 ---
-title: Filter Spring Exhibition
-slug: exhibition-template
-dates: 2026.03.20 - 2026.04.12
-venue: Filter Archive, Seoul
-tagline: A minimal archive for photographs, artist notes, and exhibition metadata.
-poster_image: /assets/exhibition/poster-template.svg
-hero_alt: Filter Spring Exhibition poster
-cms_url: https://app.pagescms.org/filter-log/exhibition-template/main
-public_url: https://filter-log.github.io/exhibition-template
+title: 전시회 생성 샘플
+slug: exhibition-demo
+dates: 평생
+venue: 온라인
+tagline: 전시회 하단 글
+poster_image: /assets/exhibition/demo.png
+hero_alt: Filter Demo Exhibition poster
+cms_url: https://app.pagescms.org/filter-log/exhibition-demo/main
+public_url: https://filter-log.github.io/exhibition-demo
 ---
 `exhibition-template`는 새로운 전시회 저장소를 빠르게 시작하기 위한 기본 아카이브다. 상단의 포스터와 설명, 하단의 썸네일 타일, 작가 목록, 업로드 UI, Pages CMS, GitHub Actions 후처리 파이프라인이 하나의 저장소 안에서 함께 동작하도록 설계했다.
 
