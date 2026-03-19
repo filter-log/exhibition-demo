@@ -1,0 +1,8 @@
+{% assign exhibition = include.exhibition %}
+<footer class="site-footer">
+  <div class="site-shell footer-shell">
+    <div>
+      <p class="footer-copy">{{ exhibition.description | default: site.description | default: exhibition.tagline }}</p>
+    </div>
+  </div>
+</footer>
