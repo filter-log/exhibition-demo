@@ -1,15 +1,15 @@
 repository:
   separator: "-"
-  suffix: template
+  suffix: demo
 
 site:
-  title: Filter Spring Exhibition
-  description: Reusable archive template for photography exhibitions on GitHub Pages.
-  dates: 2026.03.20 - 2026.04.12
-  venue: Filter Archive, Seoul
-  tagline: A minimal archive for photographs, artist notes, and exhibition metadata.
-  poster_image: /assets/exhibition/poster-template.svg
-  hero_alt: Filter Spring Exhibition poster
+  title: "전시회 생성 샘플"
+  description: "전시회 설명입니다."
+  dates: "평생"
+  venue: "온라인"
+  tagline: "전시회 하단 글"
+  poster_image: /assets/exhibition/demo.png
+  hero_alt: Filter Demo Exhibition poster
 
 content:
   exhibition_markdown: |
